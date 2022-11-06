@@ -1,7 +1,7 @@
 <?php
 $dbhost = "localhost";
-$dbuser = "zlhyd69";
-$dbpass = "Adisaja99";
+$dbuser = "";
+$dbpass = "";
 $db = "pinjarcamp";
 
 
